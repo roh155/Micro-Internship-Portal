@@ -1,4 +1,5 @@
-Micro-Internship Portal
+****🚀 **Micro-Internship Portal**
+
 Welcome to the Micro-Internship Portal! This is a full-stack MERN application designed to help students discover and apply for micro-internships, featuring an automated verification system for project submissions.
 
 💡 How This Project Helps
@@ -73,3 +74,4 @@ JWT_SECRET: A secure secret key for token signing.
 Author: Rohit Baheshwar
 
 Status: Live and Operational
+****
