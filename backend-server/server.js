@@ -8,7 +8,7 @@ const app = express();
 // --- MIDDLEWARE ---
 // CORS enable karna taaki frontend request bhej sake
 app.use(cors({
-  origin: "*", // Ya yahan apne Vercel/Cloudflare URL ka domain daal sakte ho
+  origin: ["https://micro-internship-portal-live.pages.dev", "http://localhost:5173"],
   methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true
 }));
